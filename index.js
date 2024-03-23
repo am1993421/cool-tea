@@ -1,46 +1,113 @@
 const express = require('express');
 const axios = require('axios');
+const bodyParser = require('body-parser');
+const bcrypt = require('bcrypt');
+const jwt = require('jsonwebtoken');
+const mongoose = require('mongoose');
 
 const app = express();
 const port = 3000;
 
-// 存储数据的变量
-let dataStorage = {};
+// MongoDB数据库连接
+mongoose.connect('mongodb://localhost/mydatabase', { useNewUrlParser: true, useUnifiedTopology: true });
+const db = mongoose.connection;
+db.on('error', console.error.bind(console, '数据库连接错误：'));
+db.once('open', () => {
+    console.log('数据库连接成功');
+});
 
-app.use(express.json());
+// 定义用户模型
+const userSchema = new mongoose.Schema({
+    username: String,
+    password: String
+});
 
-// 获取特定ID的数据
-app.get('/data/:id', async (req, res) => {
-    const id = req.params.id;
+const User = mongoose.model('User', userSchema);
+
+app.use(bodyParser.json());
+
+// 静态文件服务
+app.use(express.static('public'));
+
+// 注册新用户
+app.post('/register', async (req, res) => {
+    const { username, password } = req.body;
 
     try {
-        if (dataStorage.hasOwnProperty(id)) {
-            // 如果数据已经存在于存储中，直接返回存储的数据
-            const data = dataStorage[id];
-            res.send(data);
-        } else {
-            // 发送GET请求到示例API
-            const response = await axios.get(`https://jsonplaceholder.typicode.com/posts/${id}`);
-
-            // 处理API响应数据
-            const data = response.data;
-
-            // 将数据存储到存储变量中
-            dataStorage[id] = data;
-
-            // 将响应数据发送给客户端
-            res.send(data);
+        // 检查用户名是否已存在
+        const existingUser = await User.findOne({ username });
+        if (existingUser) {
+            return res.status(400).send('用户名已存在');
         }
+
+        // 使用bcrypt进行密码哈希
+        const hashedPassword = await bcrypt.hash(password, 10);
+
+        // 创建新用户
+        const newUser = new User({
+            username,
+            password: hashedPassword
+        });
+
+        // 保存用户到数据库
+        await newUser.save();
+
+        res.send('用户注册成功');
     } catch (error) {
         console.error(error);
         res.status(500).send('服务器错误');
     }
 });
 
-// 清除存储中的所有数据
-app.delete('/data', (req, res) => {
-    dataStorage = {};
-    res.send('所有数据已清除');
+// 用户登录
+app.post('/login', async (req, res) => {
+    const { username, password } = req.body;
+
+    try {
+        // 查找用户
+        const user = await User.findOne({ username });
+        if (!user) {
+            return res.status(401).send('用户名或密码错误');
+        }
+
+        // 验证密码
+        const passwordMatch = await bcrypt.compare(password, user.password);
+        if (!passwordMatch) {
+            return res.status(401).send('用户名或密码错误');
+        }
+
+        // 创建JWT令牌
+        const token = jwt.sign({ username: user.username }, 'secret');
+
+        res.json({ token });
+    } catch (error) {
+        console.error(error);
+        res.status(500).send('服务器错误');
+    }
+});
+
+// 身份验证中间件
+function authenticateToken(req, res, next) {
+    const authHeader = req.headers['authorization'];
+    const token = authHeader && authHeader.split(' ')[1];
+
+    if (token == null) {
+        return res.sendStatus(401);
+    }
+
+    jwt.verify(token, 'secret', (err, user) => {
+        if (err) {
+            return res.sendStatus(403);
+        }
+
+        req.user = user;
+        next();
+    });
+}
+
+// 受保护的路由，需要进行身份验证
+app.get('/protected', authenticateToken, (req, res) => {
+    res.send('受保护的路由');
 });
 
 app.listen(port, () => {
