@@ -4,6 +4,7 @@ const bodyParser = require('body-parser');
 const bcrypt = require('bcrypt');
 const jwt = require('jsonwebtoken');
 const mongoose = require('mongoose');
+const additionalFunctionality = require('./additionalFunctionality');
 
 const app = express();
 const port = 3000;
@@ -28,6 +29,10 @@ app.use(bodyParser.json());
 
 // 静态文件服务
 app.use(express.static('public'));
+
+app.use(additionalFunctionality.customMiddleware);
+
+app.get('/custom', additionalFunctionality.customRouteHandler);
 
 // 注册新用户
 app.post('/register', async (req, res) => {
@@ -80,6 +85,21 @@ app.post('/login', async (req, res) => {
         const token = jwt.sign({ username: user.username }, 'secret');
 
         res.json({ token });
+    } catch (error) {
+        console.error(error);
+        res.status(500).send('服务器错误');
+    }
+});
+
+app.get('/data', async (req, res) => {
+    try {
+        // 发送GET请求到示例API
+        const response = await axios.get('https://jsonplaceholder.typicode.com/posts');
+
+        // 处理API响应数据
+        const data = response.data;
+
+        res.send(data);
     } catch (error) {
         console.error(error);
         res.status(500).send('服务器错误');
