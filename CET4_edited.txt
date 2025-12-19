@@ -1,44 +1,92 @@
-angry [ˈæŋgri] a.愤怒的，生气的
-animal [ˈæniməl] n.动物，兽 a.动物的
-ankle [ˈæŋkl] n.踝，踝节部
-announce [əˈnauns] vt.宣布，宣告，发表
-announcer [əˈnaunsə] n.宣告者；播音员
-annoy [əˈnɔi] vt.使恼怒；打搅
-annual [ˈænjuəl] a.每年的 n.年报
-another [əˈnʌðə] a.再一个的；别的
-answer [ˈɑːnsə] vt.回答；响应；适应
-ant [ænt] n.蚂蚁
-anticipate [ænˈtisipeit] vt.预料，预期，期望
-anxiety [æŋˈzaiəti] n.焦虑，忧虑；渴望
-anxious [ˈæŋk∫əs] a.忧虑的；渴望的
-any [ˈeni] a.什么，一些；任何的
-anybody [ˈeniˌbɔdi] prep.任何人
-anyhow [ˈenihau] ad.无论如何
-anyone [ˈeniwʌn] pron.任何人
-anything [ˈeniθiŋ] pron.任何事物；一切
-anyway [ˈeniwei] ad.无论如何
-anywhere [ˈeniweə] ad.在什么地方
-apart [əˈpɑːt] ad.相隔；分开；除去
-apartment [əˈpɑːtmənt] n.一套公寓房间
-apologize [əˈpɔlədʒaiz] vi.道歉，谢罪，认错
-apology [əˈpɔlədʒi] n.道歉，认错，谢罪
-apparatus [ˌæpəˈreitəs] n.器械，仪器；器官
-apparent [əˈpærənt] a.表面上的；明显的
-appeal [əˈpiːl] vi.&n.呼吁；申述
-appear [əˈpiə] vi.出现；来到；似乎
-appearance [əˈpiərəns] n.出现，来到；外观
-appetite [ˈæpitait] n.食欲，胃口；欲望
-apple [ˈæpl] n.苹果，苹果树
-appliance [əˈplaiəns] n.用具，器具，器械
-applicable [ˈæplikəbl] a.能应用的；适当的
-application [ˌæpliˈkei∫ən] n.请求，申请；施用
-apply [əˈplai] vt.应用，实施，使用
-appoint [əˈpɔint] vt.任命，委任；约定
-appointment [əˈpɔintmənt] n.任命;约定,约会
-appreciate [əˈpriː∫ieit] vt.欣赏；领会；感谢
-approach [əˈprəut∫] vt.向…靠近 n.靠近
-appropriate [əˈprəupriit] a.适当的，恰当的
-approval [əˈpruːvəl] n.赞成，同意；批准
-approve [əˈpruːv] vt.赞成，称许；批准
-approximate [əˈprɔksimeit] a.近似的 vt.近似
-approximately [əprɔksiˈmətli] ad.近似地，大约
+abandon [əˈbændən] vt.丢弃；放弃，抛弃
+ability [əˈbiliti] n.能力；能耐，本领
+able [ˈeibl] a.有能力的；出色的
+abnormal [æbˈnɔːməl] a.不正常的；变态的
+aboard [əˈbɔːd] ad.在船(车)上；上船
+about [ˈəbaut] prep.关于；在…周围
+above [əˈbʌv] prep.在…上面；高于
+abroad [əˈbrɔːd] ad.(在)国外；到处
+absence [ˈæbsəns] n.缺席，不在场；缺乏
+absent [ˈæbsənt] a.不在场的；缺乏的
+absolute [ˈæbsəluːt] a.绝对的；纯粹的
+absolutely [ˈæbsəluːtli] ad.完全地；绝对地
+absorb [əbˈsɔːb] vt.吸收；使专心
+abstract [ˈæbstrækt] a.抽象的 n.摘要
+abundant [əˈbʌndənt] a.丰富的；大量的
+abuse [əˈbjuːz] vt.滥用；虐待 n.滥用
+academic [ˌækəˈdemik] a.学院的；学术的
+academy [əˈkædəmi] n.私立中学；专科院校
+accelerate [ækˈseləreit] vt.(使)加快；促进
+acceleration [ækˌseləˈrei∫ən] n.加速(度)
+accent [ˈæksənt] n.口音，腔调；重音
+accept [əkˈsept] vt.vi.接受；同意
+acceptable [əkˈseptəbl] a.可接受/合意的
+acceptance [əkˈseptəns] n.接受，验收；承认
+access [ˈækses] n.接近；通道，入口
+accessory [ækˈsesəri] n.同谋，从犯；附件
+accident [ˈæksidənt] n.意外的；事故
+accidental [ˌæksiˈdentl] a.偶然的；非本质的
+accommodate [əˈkɔmədeit] vt.容纳;供应,供给
+accommodation [əˌkɔməˈdei∫ən] n.招待设备；预定铺位
+accompany [əˈkʌmpəni] vt.陪伴，陪同；伴随
+accomplish [əˈkɔmpli∫] vt.达到(目的)；完成
+accord [əˈkɔːd] vt.使一致；给予
+accordance [əˈkɔːdəns] n.一致；和谐；授予
+accordingly [əˈkɔːdiŋli] ad.因此，所以；照着
+account [əˈkaunt] n.记述；解释；帐目
+accumulate [əˈkjuːmjuleit] vt.积累 vi.堆积
+accuracy [ˈækjurəsi] n.准确(性)；准确度
+accurate [ˈækjurit] a.准确的，正确无误的
+accuse [əˈkjuːz] vt.指责；归咎于
+accustom [əˈkʌstəm] vt.使习惯
+accustomed [əˈkʌstəmd] a.惯常的；习惯的
+ache [eik] vi.痛；想念 n.疼痛
+achieve [əˈt∫iːv] vt.完成，实现；达到
+achievement [əˈt∫iːvmənt] n.完成；成就/绩
+acid [ˈæsid] n.酸；酸的，酸性的
+acquaintance [əˈkweintəns] n.认识;了解;熟人
+acquire [əˈkwaiə] vt.取得；获得；学到
+acre [ˈeikə] n.英亩(=6.07 亩)
+across [əˈkrɔs] prep.横过；在…对面
+act [ækt] vi.行动；见效 n.行为
+action [ˈæk∫ən] n.行动；作用；功能
+active [ˈæktiv] a.活跃的；积极的
+activity [ækˈtiviti] n.活动；活力；行动
+actor [ˈæktə] n.男演员；演剧的人
+actress [ˈæktris] n.女演员
+actual [ˈæktjuəl] a.实际的；现行的
+actually [ˈækt∫uəli] ad.实际上；竟然
+acute [əˈkjuːt] a.尖的，锐的；敏锐的
+ad [æd] n.广告
+adapt [əˈdæpt] vt.使适应；改编
+add [æd] vt.添加，附加，掺加
+addition [əˈdi∫ən] n.加，加法；附加物
+additional [əˈdi∫ənl] a.附加的，追加的
+address [əˈdres] n.地址；演说；谈吐
+adequate [ˈædikwit] a.足够的；可以胜任的
+adjective [ˈædʒiktiv] n.形容词 a.形容词的
+adjust [əˈdʒʌst] vt.调整，调节；校正
+administration [ədminisˈtrei∫ən] n.管理；管理部门
+admire [ədˈmaiə] vt.钦佩，羡慕，赞赏
+admission [ədˈmi∫ən] n.允许进入；承认
+admit [ədˈmit] vt.承认；准许…进入
+adopt [əˈdɔpt] vt.收养；采用；采取
+adult [ˈædʌlt] n.成年人 a.成年的
+advance [ədˈvɑːns] vi.前进；提高 n.进展
+advanced [ədˈvɑːnst] a.先进的；高级的
+advantage [ədˈvɑːntidʒ] n.优点，优势；好处
+adventure [ədˈvent∫ə] n.冒险；惊险活动
+adverb [ˈædvəːb] n.副词
+advertisement [ədˈvəːtismənt] n.广告；公告；登广告
+advice [ədˈvais] n.劝告；忠告；意见
+advisable [ədˈvaizəbl] n.明智的；可取的
+advise [ədˈvaiz] vt.劝告；建议；通知
+aeroplane [ˈeərəplein] n.飞机
+affair [əˈfeə] n.事情，事件；事务
+affect [əˈfekt] vt.影响；感动
+affection [əˈfek∫ən] n.慈爱，爱；爱慕
+afford [əˈfɔːd] vt.担负得起…；提供
+afraid [əˈfreid] a.害怕的；担心的
+africa [ˈæfrikə] n.非洲
+african [ˈæfrikən] a.非洲的 n.非洲人
+after [ˈɑːftə] prep.在…以后；次于
