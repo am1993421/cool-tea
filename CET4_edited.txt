@@ -1,20 +1,34 @@
-ago [əˈgəu] ad.以前
-agony [ˈægəni] n.极度痛苦
-agree [əˈgriː] vi.同意；持相同意见
-agreement [əˈgriːmənt] n.协定，协议；同意
-agriculture [ˈægrikʌlt∫ə] n.农业，农艺；农学
-ahead [əˈhed] ad.在前；向前；提前
-aid [eid] n.帮助，救护；助手
-aim [eim] vi.瞄准，针对；致力
-air [eə] n.空气；空中；外观
-aircraft [ˈeəkrɑːft] n.飞机，飞行器
-airline [ˈeəlain] n.航空公司；航线
-airplane [ˈeəˌplein] n.飞机
-airport [ˈeəpɔːt] n.机场，航空站
-alarm [əˈlɑːm] n.惊恐，忧虑；警报
-alcohol [ˈælkəhɔl] n.酒精，乙醇
-alike [əˈlaik] a.同样的，相同的
-alive [əˈlaiv] a.活着的；活跃的
-all [ɔːl] a.全部的 prep.全部
-allow [əˈlau] vt.允许，准许；任
-alloy [ˈælɔi] n.合金；(金属的)成色
+almost [ˈɔːlməust] ad.几乎，差不多
+alone [əˈləun] a.单独的 ad.单独地
+along [əˈlɔŋ] prep.沿着 ad.向前
+aloud [əˈlaud] ad.出声地，大声地
+alphabet [ˈælfəbit] n.字母表，字母系统
+already [ɔːlˈredi] ad.早已，已经
+also [ˈɔːlsəu] ad.亦，也；而且，还
+alter [ˈɔːltə] vt.改变，变更；改做
+alternative [ɔːlˈtəːnətiv] n.替换物；取舍，抉择
+although [ɔːlˈðəu] conj.尽管，虽然
+altitude [ˈæltitjuːd] n.高，高度；高处
+altogether [ˌɔːltəˈgeðə] ad.完全；总而言之
+aluminium [ˌæljuːˈminjəm] n.铝
+always [ˈɔːlweiz] ad.总是，一直；永远
+amaze [əˈmeiz] vt.使惊奇，使惊愕
+ambition [æmˈbi∫ən] n.雄心，抱负，野心
+ambulance [ˈæmbjuləns] n.救护车；野战医院
+america [əˈmerikə] n.美洲；美国
+american [əˈmerikən] a.美洲的 n.美国人
+among [əˈmʌŋ] prep.在…之中
+amongst [əˈmʌŋst] prep 在…之中(=among)
+amount [əˈmaunt] n.总数；数量；和
+ampere [ˈæmpiər] n.安培
+amplify [ˈæmplifai] vt.放大，增强；扩大
+amuse [əˈmjuːz] vt.逗…乐；给…娱乐
+analyse [ˈænəlaiz] vt.分析，分解，解析
+analysis [əˈnælisis] n.分析，分解，解析
+ancestor [ˈænsistə] n.祖宗，祖先
+anchor [ˈæŋkə] n.锚 vi.抛锚，停泊
+ancient [ˈein∫ənt] a.古代的，古老的
+and [ænd] conj.和，又，并，则
+angel [ˈeindʒəl] n.天使，神差，安琪儿
+anger [ˈæŋgə] n.怒，愤怒 vt.使发怒
+angle [ˈæŋgl] n.角，角度
