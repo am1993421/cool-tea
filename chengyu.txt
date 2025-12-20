@@ -1,0 +1,578 @@
+[
+    {
+        "derivation": "语出《法华经·法师功德品》下至阿鼻地狱。”",
+        "example": "但也有少数意志薄弱的……逐步上当，终至堕入～。★《上饶集中营·炼狱杂记》",
+        "explanation": "阿鼻梵语的译音，意译为无间”，即痛苦无有间断之意。常用来比喻黑暗的社会和严酷的牢狱。又比喻无法摆脱的极其痛苦的境地。",
+        "pinyin": "ā bí dì yù",
+        "word": "阿鼻地狱",
+        "abbreviation": "abdy"
+    },
+    {
+        "derivation": "三国·魏·曹操《整齐风俗令》阿党比周，先圣所疾也。”",
+        "example": "《论语·卫灵公》众恶之，必察焉；众好之，必察焉”何晏集解引三国魏王肃曰或众～，或其人特立不群，故好恶不可不察也。”",
+        "explanation": "指相互勾结，相互偏袒，结党营私。",
+        "pinyin": "ē dǎng bǐ zhōu",
+        "word": "阿党比周",
+        "abbreviation": "edbz"
+    },
+    {
+        "derivation": "《汉书·诸葛丰传》今以四海之大，曾无伏节死谊之臣，率尽苟合取容，阿党相为，念私门之利，忘国家之政。”",
+        "example": "无",
+        "explanation": "阿党偏袒、偏私一方。为了谋求私利相互偏袒、包庇。",
+        "pinyin": "ē dǎng xiāng wéi",
+        "word": "阿党相为",
+        "abbreviation": "edxw"
+    },
+    {
+        "derivation": "鲁迅《我们要批评家》然而新的批评家不开口，类似批评家之流便趁势一笔抹杀‘阿狗阿猫’。”",
+        "example": "无",
+        "explanation": "旧时人们常用的小名。引申为任何轻贱的，不值得重视的人或著作。",
+        "pinyin": "ā gǒu ā māo",
+        "word": "阿狗阿猫",
+        "abbreviation": "agam"
+    },
+    {
+        "derivation": "见阿家阿翁”。",
+        "example": "既然如此，你我两个，便学个不痴不聋的～。★《儿女英雄传》二三回",
+        "explanation": "阿名词的前缀。姑丈夫的母亲。翁丈夫的父亲。指公公婆婆。",
+        "pinyin": "ā gū ā wēng",
+        "word": "阿姑阿翁",
+        "abbreviation": "agaw"
+    },
+    {
+        "derivation": "唐·赵璾《因话录》卷一郭暖尝与升平公主琴瑟不调。尚父拘暖，自诣朝童结罪。上召而慰之曰‘谚云不痴不聋，不作阿家阿翁。’”",
+        "example": "无",
+        "explanation": "阿名词的前缀。家通姑”，丈夫的母亲。翁丈夫的父亲。指公公婆婆。",
+        "pinyin": "ā gū ā wēng",
+        "word": "阿家阿翁",
+        "abbreviation": "agaw"
+    },
+    {
+        "derivation": "语出旧题汉·班固《汉武故事》汉武帝幼时曾对姑母长公主说若得阿娇(姑母之女)作妇，当以金屋贮之。”",
+        "example": "～原相配，太其玉镜宁无时？★明·周履靖《锦笺记·诒婚》",
+        "explanation": "阿娇指汉武帝刘彻的姑母（长公主刘娇）的女儿。原指汉武帝刘彻要用金屋接纳阿娇为妇。这里泛指美丽高贵的女子。",
+        "pinyin": "ā jiāo jīn wū",
+        "word": "阿娇金屋",
+        "abbreviation": "ajjw"
+    },
+    {
+        "derivation": "鲁迅《我的第一个师父》这和名孩子为阿猫阿狗，完全是一样的意思容易养大。”",
+        "example": "在德国无论～见面，一律互相举手高喊希特勒万岁”。★邹韬奋《法西斯作风的罪恶》",
+        "explanation": "旧时人们常用的小名。引申为任何轻贱的，不值得重视的人或著作。",
+        "pinyin": "ā māo ā gǒu",
+        "word": "阿猫阿狗",
+        "abbreviation": "amag"
+    },
+    {
+        "derivation": "元·张国宾《合汗衫》第四折张寿友曰‘阿弥陀佛，这个是谁？’卜儿云‘这便是媳妇儿。’”",
+        "example": "和尚念经，～。",
+        "explanation": "佛教语，信佛的人用作口头诵颂的佛号，表示祈祷祝福或感谢神灵的意思。",
+        "pinyin": "ē mí tuó fó",
+        "word": "阿弥陀佛",
+        "abbreviation": "emtf"
+    },
+    {
+        "derivation": "见阿鼻地狱”。",
+        "example": "生前不曾修福，死堕～。★《敦煌变文集·妙法莲花经讲经文》",
+        "explanation": "阿毗梵语的译音，意译为无间”，即痛苦无有间断之意。常用来比喻黑暗的社会和严酷的牢狱。又比喻无法摆脱的极其痛苦的境地。",
+        "pinyin": "ā pí dì yù",
+        "word": "阿毗地狱",
+        "abbreviation": "apdy"
+    },
+    {
+        "derivation": "据《晋书·卫玠传》及《王澄传》载玠好言玄理。琅玡王澄字平子，兄昵称之曰阿平”。有高名，少所推许，每闻玠言，辄叹息绝倒。故时为之语曰卫玠谈道，平子绝倒。”",
+        "example": "无",
+        "explanation": "以之比喻对对方的言论极为佩服。亦用为讥讽言论极为乖谬，常贻笑大方。",
+        "pinyin": "ā píng jué dǎo",
+        "word": "阿平绝倒",
+        "abbreviation": "apjd"
+    },
+    {
+        "derivation": "《孟子·公孙丑上》宰我、子贡、有若，智足以知圣人，污不至阿其所好。”",
+        "example": "吾何能～为？★鲁迅《坟·摩罗诗力说》",
+        "explanation": "阿曲从；其他的；好爱好。指为取得某人的好感而迎合他的爱好。",
+        "pinyin": "ē qí suǒ hào",
+        "word": "阿其所好",
+        "abbreviation": "eqsh"
+    },
+    {
+        "derivation": "恽代英《再复毕几庵书》故办杂志者，当研究社会心理。然此决非阿时趋俗，只以顺其势而利导之耳。”",
+        "example": "无",
+        "explanation": "阿迎合。迎合时尚和世俗。",
+        "pinyin": "ē shí qū sú",
+        "word": "阿时趋俗",
+        "abbreviation": "esqs"
+    },
+    {
+        "derivation": "清·梁启超《新民说》才智之士，既得此以为阿世盗名之一秘钥，于是名节闲检，荡然无所顾复。",
+        "example": "无",
+        "explanation": "阿世曲意博取世人的欢心。用博取世人的欢心的方法来窃取名誉。",
+        "pinyin": "ē shì dào míng",
+        "word": "阿世盗名",
+        "abbreviation": "esdm"
+    },
+    {
+        "derivation": "鲁迅《坟·文化偏至论》如其《民敌》一书，谓有人宝守真理，不阿世媚俗，而不见容于人群。”",
+        "example": "无",
+        "explanation": "指曲意迎合当时社会的陈规陋俗。",
+        "pinyin": "ē shì mèi sú",
+        "word": "阿世媚俗",
+        "abbreviation": "esms"
+    },
+    {
+        "derivation": "鲁迅《汉文学史纲要》第六篇至叔孙通，则正以曲学容，非重其能定朝仪，知典礼也。”",
+        "example": "叙述西汉儒学，应该看到多数～的章名小儒，也应该看到少数同情人民的正统儒者。★范文澜蔡美彪等《中国通史》第二编第二章第九节",
+        "explanation": "指迎合世俗，取悦于人。",
+        "pinyin": "ē shì qǔ róng",
+        "word": "阿世取容",
+        "abbreviation": "esqr"
+    },
+    {
+        "derivation": "《南史·孝义传下·陶季直》季直不能阿意取容，明帝颇忌之，出为辅国长史、北海太守。”",
+        "example": "当英景之间，国势初更，人心观望，执政任事之臣多～。★《明史·高穣胡濙等赞》",
+        "explanation": "指曲从其意，以取悦于人。",
+        "pinyin": "ē yì qǔ róng",
+        "word": "阿意取容",
+        "abbreviation": "eyqr"
+    },
+    {
+        "derivation": "明·冯梦龙《喻世明言·裴晋公义还原配》只是这帮阿谀谄媚的，要博相国欢喜，自然重价购买。”",
+        "example": "无",
+        "explanation": "阿谀迎合别人的意思，向人讨好；谄媚巴结，奉承。说话做事迎合别人的心意，竭力向人讨好。",
+        "pinyin": "ē yú chǎn mèi",
+        "word": "阿谀谄媚",
+        "abbreviation": "eycm"
+    },
+    {
+        "derivation": "《二程全书·伊川易传一》周之与否在君而已，不可阿谀奉迎求其比己也。”",
+        "example": "其时京师有一流棍，名叫李光，专一～，谄事令孜。★明·凌濛初《初刻拍案惊奇》卷二十二",
+        "explanation": "阿谀用言语恭维别人；逢迎迎合别人的心意。奉承，拍马，讨好别人。",
+        "pinyin": "ē yú féng yíng",
+        "word": "阿谀逢迎",
+        "abbreviation": "eyfy"
+    },
+    {
+        "derivation": "明·东鲁古狂生《醉醒石》第八回他却小器易盈，况且是个小人，在人前不过一味阿谀奉承。”",
+        "example": "无",
+        "explanation": "阿谀用言语恭维别人；奉承恭维，讨好。曲从拍马，迎合别人，竭力向人讨好。",
+        "pinyin": "ē yú fèng chéng",
+        "word": "阿谀奉承",
+        "abbreviation": "eyfc"
+    },
+    {
+        "derivation": "汉·杨秉《奏劾侯览》而今猥受过宠，执政操权，其阿谀取容者，则因公褎举，以报私惠。”",
+        "example": "且王髈等～，蔽贤窃位。★明·冯梦龙《东周列国志》",
+        "explanation": "阿谀曲意逢迎；取容取悦于人。谄媚他人，以取得其喜悦。",
+        "pinyin": "ē yú qǔ róng",
+        "word": "阿谀取容",
+        "abbreviation": "eyqr"
+    },
+    {
+        "derivation": "《诗经·小雅·蓼莪》蓼蓼者莪，匪莪伊蒿，哀哀父母，生我劬劳。”",
+        "example": "咱人有子方知不孝娘，岂不问～情肠！★元·无名氏《小张屠》第一折",
+        "explanation": "可哀呀可哀，我的父母啊！原指古时在暴政下的人民终年在外服劳役，对父母病痛、老死不能照料而悲哀。",
+        "pinyin": "āi āi fù mǔ",
+        "word": "哀哀父母",
+        "abbreviation": "aafm"
+    },
+    {
+        "derivation": "清·曹雪芹《红楼梦》第十三回那宝珠按未嫁女之礼在灵前哀哀欲绝。”",
+        "example": "那安太太进门，一眼便看见姑娘，～的跪在那里……便一直的奔了姑娘去。★清·文康《儿女英雄传》第二十回",
+        "explanation": "哀哀极度悲哀；绝断气，死。形容极其悲痛。",
+        "pinyin": "āi āi yù jué",
+        "word": "哀哀欲绝",
+        "abbreviation": "aayj"
+    },
+    {
+        "derivation": "《老子》第六十九章祸莫大于轻敌，轻敌几丧吾宝，故抗兵相加，哀者胜矣。”",
+        "example": "不，～！不要乐，要哀，何小姐能弹《易水吟》的谱子吗？★张恨水《啼笑因缘续集》第十回",
+        "explanation": "原意是力量相当的两军对阵，悲愤的一方获得胜利◇指因受欺侮而奋起抵抗的军队，必定能取胜。",
+        "pinyin": "āi bīng bì shèng",
+        "word": "哀兵必胜",
+        "abbreviation": "abbs"
+    },
+    {
+        "derivation": "《论语·八佾》子曰‘《关雎》乐而不淫，哀而不伤。’”",
+        "example": "她喜欢打扮，愿意有朋友，可是这都不过是一些小小的、～的、青春的游戏。★老舍《四世同堂》四十三",
+        "explanation": "哀悲哀；伤伤害。忧愁而不悲伤，形容感情有节制；另形容诗歌、音乐优美雅致，感情适度。比喻做事没有过头也无不及。",
+        "pinyin": "āi ér bù shāng",
+        "word": "哀而不伤",
+        "abbreviation": "aebs"
+    },
+    {
+        "derivation": "宋·释普济《五灯会元》卷一王闻失声号恸，哀感天地。”",
+        "example": "无",
+        "explanation": "形容极其哀痛，使天地都为之感动。",
+        "pinyin": "āi gǎn tiān dì",
+        "word": "哀感天地",
+        "abbreviation": "agtd"
+    },
+    {
+        "derivation": "三国·魏·繁钦《与魏文帝笺》咏北狄之遐征，奏胡马之长嘶，凄入肝脾，哀感顽艳。”",
+        "example": "这封信却是骈四骈六的，足有三千多字，写得异常的～。★清·吴趼人《二十年目睹之怪现状》第七十一回",
+        "explanation": "顽愚顽。原意是指内容凄切，文辞华丽，使愚笨和聪慧的人同样受感动◇多用来指艳情的小说、戏曲、电影中的感人情节。",
+        "pinyin": "āi gǎn wán yàn",
+        "word": "哀感顽艳",
+        "abbreviation": "agwy"
+    },
+    {
+        "derivation": "南朝·宋·刘义庆《世说新语·言语》谢太傅（安）语王右军（王羲之）曰‘中年伤于哀乐，与亲友别，辄作数是恶。’”",
+        "example": "神丹浪说解还童，～遇谢公。★清·丘逢甲《东北感春诗》",
+        "explanation": "形容人到中年对亲友离别的伤感情绪。",
+        "pinyin": "āi gǎn zhōng nián",
+        "word": "哀感中年",
+        "abbreviation": "agzn"
+    },
+    {
+        "derivation": "元·无名氏《延安府》第一折我见他慌悚踌躇，左支右吾，跪在街衢，哀告宾服。”",
+        "example": "无",
+        "explanation": "宾服古指诸侯或边远部落按时朝贡，表示依服、服从◇泛指归顺、服从。指哀求饶恕，愿意服从。",
+        "pinyin": "āi gào bīn fú",
+        "word": "哀告宾服",
+        "abbreviation": "agbf"
+    },
+    {
+        "derivation": "《诗经·小雅·鸿雁》鸿雁于飞，哀鸣嗷嗷。”",
+        "example": "天涯吟望，～，都成愁侣。★黄侃《水龙吟·秋花》词",
+        "explanation": "哀鸿哀鸣的鸿雁。比喻啼饥号寒的灾民。比喻在天灾人祸中到处都是流离失所、呻吟呼号的饥民。",
+        "pinyin": "āi hóng biàn dì",
+        "word": "哀鸿遍地",
+        "abbreviation": "ahbd"
+    },
+    {
+        "derivation": "《诗经·小雅·鸿雁》鸿雁于飞，哀鸣嗷嗷。”",
+        "example": "我记得历史上的罗马何等殷阗繁盛，怎么今日却是～，春燕无归，满眼凄惶。★清·梁启超《新罗马》",
+        "explanation": "哀鸿哀鸣的鸿雁。比喻啼饥号寒的灾民。比喻在天灾人祸中到处都是流离失所、呻吟呼号的饥民。",
+        "pinyin": "āi hóng biàn yě",
+        "word": "哀鸿遍野",
+        "abbreviation": "ahby"
+    },
+    {
+        "derivation": "《后汉书·韦彪传》孝行纯至，父母卒，哀毁三年，不出庐寝。服竟，羸瘠骨立异形，医疗数年乃起。”南朝宋·刘义庆《世说新语·德行》王戎虽不备礼，而哀毁骨立。”",
+        "example": "众亲戚已到，商量在本族亲房立了一个儿子过来，然后大殓治丧。蘧公子～，极倦子之谊。★清·吴敬梓《儒林外史》第十二回",
+        "explanation": "哀悲哀；毁损坏身体；骨立形容极瘦，只剩下骨架。旧时形容在父母丧中因过度悲伤而瘦得只剩一把骨头。",
+        "pinyin": "āi huǐ gǔ lì",
+        "word": "哀毁骨立",
+        "abbreviation": "ahgl"
+    },
+    {
+        "derivation": "清·吴敬梓《儒林外史》第十二回众亲戚已到，商量在本族亲房立了一个儿子过来，然后大殓治丧。蘧公子哀毁瘠立，极倦子之谊。”",
+        "example": "无",
+        "explanation": "旧时形容在父母丧中因过度悲伤而瘦得只剩一把骨头。",
+        "pinyin": "āi huǐ jī lì",
+        "word": "哀毁瘠立",
+        "abbreviation": "ahjl"
+    },
+    {
+        "derivation": "南朝·宋·刘义庆《世说新语·轻诋》桓南郡每见人不快，辄嗔曰‘君得哀家梨，当复不蒸食不?’”",
+        "example": "无",
+        "explanation": "将哀梨蒸着吃。比喻不识货↓里糊涂地糟堂东西。",
+        "pinyin": "āi lí zhēng shí",
+        "word": "哀梨蒸食",
+        "abbreviation": "alzs"
+    },
+    {
+        "derivation": "《庄子·田子方》夫哀莫大于心死，而人死亦次之。”",
+        "example": "人说～。”我的心已经死了。我不该再到你们公馆里来，打扰你们。★巴金《家》二回",
+        "explanation": "心死指心像死灰的灰烬。指最可悲哀的事，莫过于思想顽钝，麻木不仁。",
+        "pinyin": "āi mò dà yú xīn sǐ",
+        "word": "哀莫大于心死",
+        "abbreviation": "amdyxs"
+    },
+    {
+        "derivation": "明·凌濛初《二刻拍案惊奇》卷三十八终日价没心没想，哀声叹气。”",
+        "example": "无",
+        "explanation": "因伤感郁闷或悲痛而发出叹息的声音。",
+        "pinyin": "āi shēng tàn qì",
+        "word": "哀声叹气",
+        "abbreviation": "astq"
+    },
+    {
+        "derivation": "唐·杜甫《醉为马坠诸公携酒相看》诗酒肉如山又一时，初筵哀丝动豪竹。”",
+        "example": "～颂英烈，此是北昆跃进花。★茅盾《观北昆剧院初演〈红霞〉》",
+        "explanation": "丝指弦乐器；竹指管乐器；豪竹粗大的竹管制成的乐器。形容管弦乐声的悲壮动人。",
+        "pinyin": "āi sī háo zhú",
+        "word": "哀丝豪竹",
+        "abbreviation": "ashz"
+    },
+    {
+        "derivation": "京剧《平原作战》第五场赵勇刚（唱）哀思如潮热泪洒，平川有边仇无涯。”",
+        "example": "无",
+        "explanation": "哀伤的思绪如同潮涌一般。形容极度悲痛。",
+        "pinyin": "āi sī rú cháo",
+        "word": "哀思如潮",
+        "abbreviation": "asrc"
+    },
+    {
+        "derivation": "清·曹雪芹《红楼梦》第二十五回平儿丰儿等哭的哀天叫地，贾政心中也着了忙。”",
+        "example": "平儿丰儿等哭的～，贾政心中也着了忙。★清·曹雪芹《红楼梦》第二十五回",
+        "explanation": "哀悲哀。悲哀地呼天喊地。形容悲痛至极。",
+        "pinyin": "āi tiān jiào dì",
+        "word": "哀天叫地",
+        "abbreviation": "atjd"
+    },
+    {
+        "derivation": "清·曹雪芹《红楼梦》第十三回那宝珠按未嫁女之礼在灵前哀哀欲绝。”",
+        "example": "宝庆给大哥唱了一曲挽歌，直唱得泣不成声，～。★老舍《鼓书艺人》十七",
+        "explanation": "伤心得要死。形容悲痛到了极点。",
+        "pinyin": "āi tòng yù jué",
+        "word": "哀痛欲绝",
+        "abbreviation": "atyj"
+    },
+    {
+        "derivation": "明·凌濛初《二刻拍案惊奇》卷三十八终日价没心没想，哀声叹气。”",
+        "example": "我看你脸上一团私欲愁闷气色！这会子又～，你那些还不足，还不自在？★清·曹雪芹《红楼梦》第三十三回",
+        "explanation": "因伤感郁闷或悲痛而发出叹息的声音。",
+        "pinyin": "āi shēng tàn qì",
+        "word": "唉声叹气",
+        "abbreviation": "astq"
+    },
+    {
+        "derivation": "清·曹雪芹《红楼梦》第一百回妈妈这一辈子想来还不至挨冻受饿。”",
+        "example": "无",
+        "explanation": "指无衣无食的穷困境况。",
+        "pinyin": "ái dòng shòu è",
+        "word": "挨冻受饿",
+        "abbreviation": "adse"
+    },
+    {
+        "derivation": "明·冯梦龙《醒世恒言》卷七但有一二分才貌的，那一个不挨风缉缝，央媒说合。”",
+        "example": "无",
+        "explanation": "比喻为了达到某种目的而找门路。",
+        "pinyin": "āi fēng jī fèng",
+        "word": "挨风缉缝",
+        "abbreviation": "afjf"
+    },
+    {
+        "derivation": "老舍《四世同堂》七四自从他作了副县长，随着白巡长挨家挨户地收铜铁，他的美誉便降落了许多。”",
+        "example": "无",
+        "explanation": "每家每户，户户不漏。挨，依次，顺次。",
+        "pinyin": "āi ji āi hù",
+        "word": "挨家挨户",
+        "abbreviation": "ajah"
+    },
+    {
+        "derivation": "明·冯梦龙《醒世恒言·钱秀才错占凤凰俦》那山中远近人家，都晓得高家新女婿才貌双全，竟来观看，挨肩并足，如看神会故事的一般热闹。”",
+        "example": "无",
+        "explanation": "形容人群拥挤。",
+        "pinyin": "āi jiān bìng zú",
+        "word": "挨肩并足",
+        "abbreviation": "ajbz"
+    },
+    {
+        "derivation": "元·刘君锡《来生债》第一折你怎么偏要挨肩擦膀的，舒着手往我怀里摸甚么？”",
+        "example": "那两边围看的，～，不知其数。★明·兰陵笑笑生《金瓶梅词话》第四二回",
+        "explanation": "指身体相贴近。也形容人群拥挤。",
+        "pinyin": "āi jiān cā bǎng",
+        "word": "挨肩擦膀",
+        "abbreviation": "ajcb"
+    },
+    {
+        "derivation": "明·冯梦龙《醒世恒言》第三十四卷常常走到厨房下，挨肩擦背，调嘴弄舌。”",
+        "example": "引惹得那楼下看灯的人，～，仰望上瞧。★明·兰陵笑笑生《金瓶梅词话》第十五回",
+        "explanation": "肩挨肩，背擦背。形容人多拥挤。",
+        "pinyin": "āi jiān cā bèi",
+        "word": "挨肩擦背",
+        "abbreviation": "ajcb"
+    },
+    {
+        "derivation": "《脂砚斋重评石头记》六五回贾珍便和三姐挨肩擦脸，百般轻薄起来。”",
+        "example": "无",
+        "explanation": "挨靠近。擦，接触。形容狎昵之状。",
+        "pinyin": "āi jiān cā liǎn",
+        "word": "挨肩擦脸",
+        "abbreviation": "ajcl"
+    },
+    {
+        "derivation": "《官场维新记》第九回小玉凤见是警察局的大人到了，连忙抛了各客，溜进房间里来，与袁伯珍挨肩搭背的坐在一块儿。”",
+        "example": "看她俩挨肩搭背的样子，就知道是一对好朋友。",
+        "explanation": "挨肩肩和肩相靠。搭背手搭在别人背上。形容极其亲昵的样子。",
+        "pinyin": "āi jiān dā bèi",
+        "word": "挨肩搭背",
+        "abbreviation": "ajdb"
+    },
+    {
+        "derivation": "明·冯梦龙《醒世恒言·勘皮靴单证二郎神》当日看的是挨肩迭背。",
+        "example": "无",
+        "explanation": "形容人群拥挤。",
+        "pinyin": "āi jiān dié bèi",
+        "word": "挨肩迭背",
+        "abbreviation": "ajdb"
+    },
+    {
+        "derivation": "《醒世恒言·勘皮靴单证二郎神》当日看的真是挨户叠背。”",
+        "example": "无",
+        "explanation": "形容人群拥挤。",
+        "pinyin": "āi jiān dié bèi",
+        "word": "挨肩叠背",
+        "abbreviation": "ajdb"
+    },
+    {
+        "derivation": "李英儒《野火春风斗古城》第六章二她心生一计，挨门挨户问人家要不要水。”",
+        "example": "她［一丈青大娘］又跑遍沿河几个村落，～乞讨零碎布头儿，给何满子缝了一件五光十色的百家衣。★刘绍棠《蒲柳人家》一",
+        "explanation": "挨按照顺序。按照住户的顺序一家也不漏。同挨门逐户”。",
+        "pinyin": "āi mén āi hù",
+        "word": "挨门挨户",
+        "abbreviation": "amah"
+    },
+    {
+        "derivation": "清·钱彩《说岳全传》第六十一回写出岳元帅父子受屈情节，挨门逐户的分派；约齐日子，共上民表，要替岳爷申冤。”",
+        "example": "无",
+        "explanation": "挨家挨户，一家也没有漏掉。",
+        "pinyin": "āi mén zhú hù",
+        "word": "挨门逐户",
+        "abbreviation": "amzh"
+    },
+    {
+        "derivation": "明·冯梦龙《平妖传》众人挨三顶四，簇拥将来，一个个伸出手来，求太医看脉。”",
+        "example": "但见红尘滚滚，车马纷纷，许多商贩客人驮着货物，～的进店安歇。★明·冯梦龙《古今小说》卷五",
+        "explanation": "形容人多，连接不断。",
+        "pinyin": "āi sān dǐng wǔ",
+        "word": "挨三顶五",
+        "abbreviation": "asdw"
+    },
+    {
+        "derivation": "明·凌濛初《初刻拍案惊奇》卷十七那日观看的人，何止挨山塞海。”",
+        "example": "无",
+        "explanation": "形容人极多而拥挤不堪。",
+        "pinyin": "āi shān sè hǎi",
+        "word": "挨山塞海",
+        "abbreviation": "assh"
+    },
+    {
+        "derivation": "《醒世恒言·卢太学诗酒傲公侯》别个秀才要去结交知县，还要捱风缉缝，央人引进，拜在门下，认为老师。”",
+        "example": "无",
+        "explanation": "指多方钻营，找门路。",
+        "pinyin": "āi fēng qī fèng",
+        "word": "捱风缉缝",
+        "abbreviation": "afqf"
+    },
+    {
+        "derivation": "《平妖传》第四回半仙到栅栏门首下马，也不进宅，径在堂中站着，众人捱三顶四，簇拥将来，一个个伸出手来，求太医看脉。”",
+        "example": "覆帐之后，宾客如市，捱三顶五，不得空闲。★《醒世恒言·卖油郎独占花魁》",
+        "explanation": "形容人群拥挤，接连不断。",
+        "pinyin": "āi sān dǐng sì",
+        "word": "捱三顶四",
+        "abbreviation": "asds"
+    },
+    {
+        "derivation": "明·冯梦龙《醒世恒言·卖油郎独占花魁》覆帐之后，宾客如市，捱三顶五，不得空闲。”",
+        "example": "无",
+        "explanation": "形容人群拥挤，接连不断。",
+        "pinyin": "āi sān dǐng wǔ",
+        "word": "捱三顶五",
+        "abbreviation": "asdw"
+    },
+    {
+        "derivation": "无",
+        "example": "刁迈彭一面让他起，一面故意做出～的样子，说‘这是怎么好！这是怎么好！叫我怎么对得起死的大哥！’★李宝嘉《官场现形记》第五十一回",
+        "explanation": "因伤感、烦闷或痛苦而发出叹息的声音。",
+        "pinyin": "ài shēng tàn qì",
+        "word": "嗳声叹气",
+        "abbreviation": "astq"
+    },
+    {
+        "derivation": "清·王士秅《香祖笔记》卷十予观宋景文近体，无一字无来历，而对仗精确，非读万卷者不能，迥非南渡以后所及。今人耳食，誉者毁者，皆矮人观场，未之或知也。”",
+        "example": "最有识见之客，亦作～。★清·李渔《闲情偶寄·演习·选剧》",
+        "explanation": "比喻只知道附和别人，自己没有主见。也比喻见识不广。",
+        "pinyin": "ǎi rén guān cháng",
+        "word": "矮人观场",
+        "abbreviation": "argc"
+    },
+    {
+        "derivation": "《朱子语类》卷二十七正如矮人看戏一般，见前面人笑，他也笑，他虽眼不曾见，想必是好笑，便随他笑。”",
+        "example": "是真是假，要弄个明白，不能～，人云亦云。",
+        "explanation": "比喻只知道附和别人，自己没有主见。也比喻见识不广。",
+        "pinyin": "ǎi rén kàn chǎng",
+        "word": "矮人看场",
+        "abbreviation": "arkc"
+    },
+    {
+        "derivation": "清·赵翼《论诗》诗矮人看戏何曾见，都是随人说短长。”",
+        "example": "无",
+        "explanation": "比喻只知道附和别人，自己没有主见。也比喻见识不广。",
+        "pinyin": "ǎi rén kàn xì",
+        "word": "矮人看戏",
+        "abbreviation": "arkx"
+    },
+    {
+        "derivation": "明·徐复祚《一文钱》第三出全心即佛，全佛即人，直是饥人见饭；心不是佛，智不是道，何殊矮子观场。”",
+        "example": "无",
+        "explanation": "比喻只知道附和别人，自己没有主见。也比喻见识不广。",
+        "pinyin": "ǎi zǐ guān cháng",
+        "word": "矮子观场",
+        "abbreviation": "azgc"
+    },
+    {
+        "derivation": "《朱子语类》卷二十七正如矮人看戏一般，见前面人笑，他也笑，他虽眼不曾见，想必是好笑，便随他笑。”",
+        "example": "～何曾见，都是随人说短长。★清·赵翼《诗论》诗",
+        "explanation": "比喻只知道附和别人，自己没有主见。也比喻见识不广。",
+        "pinyin": "ǎi zǐ kàn xì",
+        "word": "矮子看戏",
+        "abbreviation": "azkx"
+    },
+    {
+        "derivation": "明·李开先《贺邑令贺洪滨奖异序》迄今才八阅月，绝从生之文法，除苛细之科条，虽若凛不可犯，而实蔼然可亲。”",
+        "example": "早有那般世谊同年，见他翩翩风度，～，都愿和他亲近进来了。★清·文康《儿女英雄传》第三十八回",
+        "explanation": "蔼然对人和善的样子。形容态度和气，使人愿意接近。",
+        "pinyin": "ǎi rán kě qīn",
+        "word": "蔼然可亲",
+        "abbreviation": "arkq"
+    },
+    {
+        "derivation": "唐·韩愈《答李翊书》仁义之人，其言蔼如也。”",
+        "example": "子恺为他家华瞻写的文章，真是‘～’之言。★朱自清《儿女》",
+        "explanation": "对人和善的有仁德的人。",
+        "pinyin": "ǎi rán rén zhě",
+        "word": "蔼然仁者",
+        "abbreviation": "arrz"
+    },
+    {
+        "derivation": "《瑜伽师地论》卷六十一云何爱别离苦？当知此苦，亦由五相。”宋·释道原《景德传灯录》卷二十三问‘如何是至极之谈？’曰‘爱别离苦。’”",
+        "example": "无",
+        "explanation": "佛家语，指亲爱的人离别的痛苦。",
+        "pinyin": "ài bié lí kǔ",
+        "word": "爱别离苦",
+        "abbreviation": "ablk"
+    },
+    {
+        "derivation": "唐·韩愈《与陈给事书》夫位益尊则贱者日隔，伺候于门墙者日益进，则爱博而情不专。”",
+        "example": "在这三条路里，我将选择那一条呢？我惭愧自己是个‘～’的人；虽者想着只选定一条路，却总丢不下别的。★朱自清《那里走》",
+        "explanation": "对人或事物的喜爱很广泛，而感情不能专一。",
+        "pinyin": "ài bó ér qíng bù zhuān",
+        "word": "爱博而情不专",
+        "abbreviation": "abeqbz"
+    },
+    {
+        "derivation": "南朝·梁·萧统《陶渊明集序》余爱嗜其文，不能释手。”",
+        "example": "得见钱唐陈小云司马《香畹楼忆语》钞本一种，～，亟问假归，手录展玩。★清·王维鋆《香畹楼忆语序一》",
+        "explanation": "释放下。对所喜欢的物品，爱得拿在手里久久不肯放下。",
+        "pinyin": "ài bù rěn shì",
+        "word": "爱不忍释",
+        "abbreviation": "abrs"
+    },
+    {
+        "derivation": "南朝·梁·萧统《陶渊明集序》余爱嗜其文，不能释手。”",
+        "example": "虽是不合他的路数，可奈文有定评，他看了也知道～。★清·文康《儿女英雄传》第三十五回",
+        "explanation": "释放下。喜爱得舍不得放手。",
+        "pinyin": "ài bù shì shǒu",
+        "word": "爱不释手",
+        "abbreviation": "abss"
+    },
+    {
+        "derivation": "清·叶燮《原诗·外篇上》嫉恶甚严，爱才若渴，此韩愈之面目也。”",
+        "example": "宫保～，兄弟实在钦佩的。★清·刘鹗《老残游记》六回",
+        "explanation": "才贤才，人才。爱慕贤才，急欲求得，就象口渴急于喝水一样。",
+        "pinyin": "ài cái rú kě",
+        "word": "爱才如渴",
+        "abbreviation": "acrk"
+    },
+    {
+        "derivation": "语出清·叶燮《原诗·外篇上》嫉恶甚严，爱才若渴，此韩愈之面目也。”",
+        "example": "本帅～，何必过谦？★《说岳全传》第三一回",
+        "explanation": "才贤才，人才。爱慕贤才，急欲求得，就象生命一样重要。",
+        "pinyin": "ài cái rú mìng",
+        "word": "爱才如命",
+        "abbreviation": "acrm"
+    }
+]
